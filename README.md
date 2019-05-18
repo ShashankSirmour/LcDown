@@ -1,2 +1,2 @@
 # LcDown
-### lecturnotes download 
+### lecturnotes downloader
