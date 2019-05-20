@@ -12,8 +12,7 @@ html {
 body {
     background-color: #ffc600;
     height: 100vh;
-    overflow-y: hidden;
-    overflow-x: auto;
+    overflow: hidden;
     
    
 }
@@ -41,7 +40,7 @@ body {
     padding: 10% ;
 
     grid-column: 2/-1;
-    grid-row: 2/ -1;
+    grid-row: 2/ -2;
 }
 
 .item-6 {
@@ -166,6 +165,7 @@ body {
 
 .composition-photo {
     width: 60%;
+    
     position: absolute;
     border-radius: 1rem;
     box-shadow: 0 1.5rem 2rem rgba(0, 0, 0, 0.2);
